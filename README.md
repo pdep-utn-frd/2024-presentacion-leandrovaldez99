@@ -1,10 +1,10 @@
 # presentacion-
 
-- Escriban presentación sobre ustedes.
-- Suban la presentación a Git.
-- Realicen algun cambio.
-- Suban los nuevos cambios.
-- Compartan el link por discord
-- Hagan algun comentario sobre el repositorio de algun otro compañere. Al menos 2.
+- Soy Leandro, tengo 24 años 
+- Ayudo a mi papá en un taller de reparación de amortiguadores 
+- Mi hobby es jugar en la PC
 
-Ya saben usar git!
+
+
+
+
